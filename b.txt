@@ -1,2 +1,6 @@
 Noi dung code B
+<<<<<<< HEAD
 Thay doi nhanh main a
+=======
+sua bboi beta
+>>>>>>> beta
